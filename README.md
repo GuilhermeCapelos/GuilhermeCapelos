@@ -1,5 +1,5 @@
 - 👋 Oii, eu sou Guilherme Capelos
-- 📜 Atualmente estudando Programação no bootcamp da "DIO" Decola Tech 3a Edição
+- 📜 Atualmente estudando Programação na plataforma da Alura, com foco no Front-end
 - 🖥️ Trabalho como agente de atendimento pela Concentrix BR
 - 📫 Você pode me contatar pelo email: gcapelos4@gmail.com
 
