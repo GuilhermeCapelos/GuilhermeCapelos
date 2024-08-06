@@ -1,6 +1,6 @@
 - 👋 Oii, eu sou Guilherme Capelos
-- 📜 Atualmente estudando Programação na plataforma da Alura, com foco no Front-end
-- 🖥️ Trabalho como agente de atendimento pela Concentrix BR
+- 📜 Atualmente estudando Web Designer Front-End no Senai
+- 🖥️ Em busca de emprego Front-End
 - 📫 Você pode me contatar pelo email: gcapelos4@gmail.com
 
 <div align="center">
