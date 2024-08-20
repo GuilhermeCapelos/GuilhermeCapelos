@@ -1,4 +1,4 @@
-- 👋 Oii, eu sou Guilherme Capelos
+- 👋 Oii, eu sou Guilherme Lobo
 - 📜 Atualmente estudando para me tornar Web-Designer
 - 🖥️ Em busca de emprego Front-End / Web-Designer
 - 📫 Você pode me contatar pelo email: gcapelos4@gmail.com
